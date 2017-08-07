@@ -27,7 +27,7 @@ In addition, the following bonus goals are possible
 ## Wireframes
 The app will be a single page app consisting of a game view, buttons to pause, mute and reset the game, and links to the authors' githubs and linkedins.
 
-![link]("docs/images/wireframe1")
+![link]("https://github.com/dspages/SailboatRacer/blob/master/docs/images/wireframe1.png")
 
 ## Technologies and technical challenges
 The app will be built in JavaScript and use a 3d imaging library, preferably three.js. A lot of trigonometry will be involved in the backend and we may use a trig helper library or simply handroll the math.
@@ -52,4 +52,3 @@ The primary technical challenges will be
 
 
 ## Plan for getting users and reviews
--Dan will
